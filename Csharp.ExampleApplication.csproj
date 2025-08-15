@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<OutputType>Exe</OutputType>
-		<TargetFrameworks>net8.0;net9.0</TargetFrameworks>
+		<TargetFramework>net8.0</TargetFramework>
 		<!-- Don't warn on ConfigureAwait on console application, Don't require license headers for sample code -->
 		<NoWarn>CA2007,IDE0073</NoWarn>
 		<UserSecretsId>8368baab-103b-45f6-bfb1-f89a537f4f3c</UserSecretsId>

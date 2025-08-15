@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OcRJuDwKwXo=",
+  "dgSpecHash": "beejb2Qec+s=",
   "success": true,
   "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Documents\\Scripts\\Tableau_Migration_SDK_V2\\Csharp.ExampleApplication\\Csharp.ExampleApplication.csproj",
   "expectedPackageFiles": [
@@ -42,7 +42,6 @@
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\9.0.7\\microsoft.extensions.logging.eventlog.9.0.7.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.logging.eventsource\\9.0.7\\microsoft.extensions.logging.eventsource.9.0.7.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.18\\microsoft.extensions.objectpool.8.0.18.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.objectpool\\9.0.7\\microsoft.extensions.objectpool.9.0.7.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.options\\9.0.7\\microsoft.extensions.options.9.0.7.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.7\\microsoft.extensions.options.configurationextensions.9.0.7.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512",
@@ -76,10 +75,10 @@
     "C:\\Users\\guilh\\.nuget\\packages\\testableio.system.io.abstractions\\22.0.15\\testableio.system.io.abstractions.22.0.15.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\22.0.15\\testableio.system.io.abstractions.wrappers.22.0.15.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\testably.abstractions.filesystem.interface\\9.0.0\\testably.abstractions.filesystem.interface.9.0.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512"
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
   ],
   "logs": []
 }
